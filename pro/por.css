@@ -1,0 +1,44 @@
+
+h1{
+	background: olive;
+	font-size: 30px;
+	font-family: sans-serif;
+	height: 50px;
+	width: 600px;
+
+}
+li{
+	
+	display: inline;
+
+	padding-right: 40px;
+	font-size: 25px;
+
+
+}
+
+.prime1{
+	background: olive;
+}
+.prime{
+	background: white;
+	height: 10px;
+	width: 960px;
+}
+.pri2{
+	background: #c0c0c0;
+	height: 50px;
+	width: 960px;
+}
+.primary1{
+	background: #c0c0c0;
+}
+
+table{
+	background: #008080;
+	}
+
+
+a{
+	text-decoration: none;
+}
