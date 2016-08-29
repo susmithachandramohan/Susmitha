@@ -1,0 +1,69 @@
+ 
+ body{
+
+/*overflow: hidden;*/
+
+}
+ 	h1
+ {
+	text-align: center;
+}
+h4
+{
+	text-align: center;
+}
+thead{
+	padding-right: 20px;
+}
+.container{
+	background-color: #008B8B;
+}
+
+.table{
+	background-color: #FFE4C4;
+	
+
+}
+.modal{
+	position: fixed;
+
+}
+/*#btn{
+	width: 50px;
+}*/
+
+#rem{
+	width: 85px;
+	height: 35px;
+}
+#edt{
+	background-color: #20B2AA;
+	width: 85px;
+	height: 35px;
+}
+#sve{
+background-color: #20B2AA;
+	width: 85px;
+	height: 35px;
+}
+#cnl{
+background-color: #20B2AA;
+	width: 85px;
+	height: 35px;	
+}
+
+
+tr td .edit
+{
+	display: none;
+}
+
+tr td.edit .edit
+{
+	display: initial;
+}
+tr td.edit .noedit
+{
+	display: none;
+}
+
